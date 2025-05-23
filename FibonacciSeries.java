@@ -1,4 +1,3 @@
-package program5;
 
 public class FibonacciSeries {
     public static void main(String[] args) {
@@ -13,5 +12,6 @@ public class FibonacciSeries {
             a = b;
             b = c;
         }
+        System.out.println("----------");
     }
 }
